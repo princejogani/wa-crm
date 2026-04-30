@@ -31,7 +31,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env.local
 
 # vercel
 .vercel
@@ -56,3 +55,4 @@ ig_posting.json
 
 # Claude local settings
 .claude/settings.local.json   
+config.bat
